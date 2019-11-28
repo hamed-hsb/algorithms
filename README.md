@@ -1,4 +1,4 @@
-# algorithms
+# Hash Algorithm
   Fried Data Hansh 64bit (FDH64)
   
   FDH64 is a lib for data hashing . 
