@@ -1,5 +1,5 @@
 # Hash Algorithm
-  Fried Data Hansh 64bit (FDH64)
+  ## Fried Data Hansh 64bit (FDH64)
   
   FDH64 is a lib for data hashing . 
   This library can generate 64 bits of data. The output of this library is 8 bytes .
